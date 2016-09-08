@@ -1,0 +1,24 @@
+---
+title: "Mini-Project 1"
+# author: "Geoff LaFlair"
+# date: "September 8, 2016"
+output: html_document
+---
+
+
+Create program that:
+
+- Requests: 'Enter a noun.'
+- Checks to see if the noun is a nominalization.
+- If so, prints: 'I think [noun] is a nominalization.'
+- If not, prints: 'I don't think noun is a nominalization.'
+
+Write an executive summary (1-2 pages) that addresses:
+
+- Your operational definition of a nominalization
+- Strengths and weaknesses of your program
+- Challenges associated with identifying nominalizations
+
+_Bonus task:_
+
+- If the word is a nominalization, attempt to isolate and print the root word
