@@ -1,0 +1,16 @@
+---
+title: "Mini-Project 2"
+# author: "Geoff LaFlair"
+# date: "September 8, 2016"
+output: html_document
+---
+
+Create a program that:
+
+- Requests a noun
+- Converts singular nouns into plural nouns AND converts plural nouns into singular nouns
+- Prints the result
+
+Use the website below (or other resources) to become more familiar with singular and plural nouns in English. Do the best you can to account for irregular forms and exceptions. You won't be able to get them all, but you should be able to get the program to catch most forms.
+
+[http://www.myenglishpages.com/site\_php\_files/grammar-lesson-plurals.php](http://www.myenglishpages.com/site_php_files/grammar-lesson-plurals.php)

@@ -1,0 +1,22 @@
+---
+title: "Mini-Project 3"
+# author: "Geoff LaFlair"
+# date: "September 8, 2016"
+output: html_document
+---
+Create a program that:
+
+- Requests a yes or no question.
+- Answers the question in a complete sentence.
+- The program should decide whether to answer in the affirmative or negative, based on a random number.
+- Example:
+  - Input: Is programming fun?
+  - Output 1: Yes, programming is fun.
+  - Output 2: No, programming is not fun.
+  - The output will be decided by the program randomly.
+
+Once you have a basic version of the program working. Try to accurately answer more challenging yes/no questions like:
+
+- Is programming in Python fun?
+- Do I like to program?
+- Can a computer really understand my questions?
